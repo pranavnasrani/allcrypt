@@ -13,10 +13,6 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 
-[project.urls]
-Homepage = "https://github.com/pranavnasrani/allcrypt"
-Issues = "https://github.com/pranavnasrani/allcrypt/issues"
-
 
 dependencies = [
   'tkinter',
