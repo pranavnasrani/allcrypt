@@ -32,7 +32,6 @@ jobs:
         pip install build
         pip install cryptography
         pip install tqdm
-        pip install shutil
         
     - name: Build package
       run: python -m build
