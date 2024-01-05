@@ -20,7 +20,6 @@ Issues = "https://github.com/pranavnasrani/allcrypt/issues"
 [project]
 dependencies = [
   'tkinter',
-  'gzip < 3',
   'tqdm',
   'base64',
   'shutil',
