@@ -17,7 +17,7 @@ classifiers = [
 Homepage = "https://github.com/pranavnasrani/allcrypt"
 Issues = "https://github.com/pranavnasrani/allcrypt/issues"
 
-[project]
+
 dependencies = [
   'tkinter',
   'tqdm',
