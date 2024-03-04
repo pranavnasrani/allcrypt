@@ -10,7 +10,7 @@ Allcrypt is a Python application for file and message encryption/decryption usin
 
 ## Installation
 
-1. Install the package using pip:
+1. Install the latest package using pip:
 
     ```bash
     pip install allcrypt
