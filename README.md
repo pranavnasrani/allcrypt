@@ -1,6 +1,6 @@
 # Allcrypt Encryption/Decryption
 
-Allcrypt is a Python application for file and message encryption/decryption using Fernet symmetric key cryptography.
+Allcrypt is a Python application for file and message encryption/decryption using Fernet symmetric key cryptography for Windows and Linux users.
 
 ## Features
 
