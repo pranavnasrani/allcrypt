@@ -21,7 +21,7 @@ Allcrypt is a Python application for file and message encryption/decryption usin
     ```bash
     allcrypt
     ```
-
+3. You can also install from the installer in the releases. (recommended for inexperienced users or those without Python)
 ## Usage
 
 ### Encrypt a Message
