@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='allcrypt',
-    version='1.5.0',  # Update with your version number
+    version='1.5.1',  # Update with your version number
     long_description_content_type="text/markdown",
     long_description=open("allcrypt/README.md").read(),
     packages=find_packages(),
