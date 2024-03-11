@@ -71,7 +71,7 @@ Allcrypt is a Python application for file and message encryption/decryption usin
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU v3 License - see the [LICENSE](LICENSE) file for details.
 
 ## About Me:
 
